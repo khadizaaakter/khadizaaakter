@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khadiza-Akter-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Khadiza-Akter-Developer" /> </p>
 
-- I'm learning **React JF** **, .NET** right now.
+- I'm learning **React JS** **, .NET** right now.
 
 - Embrace challenges, code daily, seek feedback, and enjoy the coding journey.
 

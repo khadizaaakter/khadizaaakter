@@ -36,4 +36,4 @@
 
 
   ## Future Exploring Goal
--Exploring Vue.js, Angular for frontend; Flutter, React Native for mobile; Node.js, Django, Rails, Flask for backend;
+Exploring Vue.js, Angular for frontend; Flutter, React Native for mobile; Node.js, Django, Rails, Flask for backend;

@@ -34,6 +34,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadiza-Akter-Developer&theme=merko)](https://github.com/Khadiza-Akter-Developer/github-readme-activity-graph)
 
-
   ## Future Exploring Goal
 Exploring Vue.js, Angular for frontend; Flutter, React Native for mobile; Node.js, Django, Rails, Flask for backend;

@@ -32,7 +32,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadiza-Akter-Developer&theme=merko)](https://github.com/Khadiza-Akter-Developer/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=merko)](https://github.com/khadizaaakter/github-readme-activity-graph)
 
   ## Future Exploring Goal
 Exploring Vue.js, React Js, Asp .Net, Laravel php, Angular for frontend; React Native for mobile; Node.js, Django, Rails, Flask for backend;

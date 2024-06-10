@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 <img align ="right" alt="Coding"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Khadiza-Akter-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Khadiza-Akter-Developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20views&color=0e75b6&style=flat" alt="khadizaaakter" /> </p>
 
 - I'm learning **React JS** **, .NET** right now.
 
@@ -24,11 +24,11 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khadiza-Akter-Developer&show_icons=true&locale=en&layout=compact" alt="Khadiza-Akter-Developer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadizaaakter&show_icons=true&locale=en&layout=compact" alt="khadizaaakter" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Khadiza-Akter-Developer&show_icons=true&locale=en" alt="Khadiza-Akter-Developer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadizaaakter&show_icons=true&locale=en" alt="khadizaaakter" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadiza-Akter-Developer&" alt="Khadiza-Akter-Developer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&" alt="khadizaaakter" /></p>
 
 
 

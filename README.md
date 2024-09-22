@@ -1,5 +1,5 @@
 ![MasterHead](https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif?lossy=0&strip=1&webp=1)
-<h1 align="center"> I'M KHADIZA AKTER.</h1>
+<h1 align="center">I'M KHADIZA AKTER.</h1>
 <h3 align="center"> A passionate Developer from Bangladesh</h3>
 <img align ="right" alt="Coding"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 

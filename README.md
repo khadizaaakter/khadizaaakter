@@ -14,7 +14,7 @@
    <a href= "https://www.linkedin.com/in/khadiza-akter-83b389240/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left"> Languages and Tools</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="c" width="40" height="40"/> </a>

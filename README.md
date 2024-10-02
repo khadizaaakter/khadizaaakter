@@ -32,7 +32,12 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=merko)](https://github.com/khadizaaakter/github-readme-activity-graph)
+
+[![Khadiza Akter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react&bg_color=282c34&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/khadizaaakter/github-readme-activity-graph)
+
+
+
+
 
   ## Future Exploring Goal
 Exploring Vue.js, React Js, Asp .Net, Laravel php, Angular for frontend; React Native for mobile; Node.js, Django, Rails, Flask for backend;

@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&" alt="khadizaaakter" /></p>
 
-[![Khadiza Akter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react&bg_color=282c34&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/khadizaaakter/github-readme-activity-graph)
+[![Khadiza Akter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react&bg_color=1a1a2e&color=f5a623&line=ff6347&point=fcf6bd&area=true&hide_border=true)](https://github.com/khadizaaakter/github-readme-activity-graph)
 
 ## Future Exploring Goal
 Exploring Vue.js, SQL, React Js, Asp .Net, Laravel php, Angular for frontend; React Native for mobile; Node.js, Django, Rails, Flask for backend;

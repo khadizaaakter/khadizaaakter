@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20views&color=0e75b6&style=flat" alt="khadizaaakter" /> </p>
 
-- I'm learning **VUE JS**right now.
+- I'm learning **VUE JS** right now.
 - I'm learning **PHP (Laravel) | JavaScript.**
 - Embrace challenges, code daily, seek feedback, and enjoy the coding journey.
 

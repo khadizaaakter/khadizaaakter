@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20views&color=0e75b6&style=flat" alt="khadizaaakter" /> </p>
 
-- I'm learning **VUE JS** right now.
-- I'm learning **PHP (Laravel) | JavaScript.**
-- Embrace challenges, code daily, seek feedback, and enjoy the coding journey.
+- 🚀 Currently mastering Vue.js to build dynamic and interactive web applications.
+- 💻 Diving into PHP (Laravel) & JavaScript to craft scalable and efficient solutions.
+- 🎯 Embracing challenges, coding daily, seeking feedback, and loving the journey—because growth happens outside the comfort zone!
 
 <h3 align="left"> Connection</h3>
  <div align="left">

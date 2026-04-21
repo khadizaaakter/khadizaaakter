@@ -15,7 +15,8 @@
   
 
 <h3 align="left"> Languages and Tools</h3>
-<p align="left">
+<!-- <p align="left"> -->
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <!-- React -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>

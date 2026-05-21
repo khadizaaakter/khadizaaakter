@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&" alt="khadizaaakter" /></p>
 
-[![Khadiza Akter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react&bg_color=1a1a2e&color=f5a623&line=ff6347&point=fcf6bd&area=true&hide_border=true)](https://github.com/khadizaaakter/github-readme-activity-graph)
+[[Khadiza Akter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react&bg_color=1a1a2e&color=f5a623&line=ff6347&point=fcf6bd&area=true&hide_border=true)](https://github.com/khadizaaakter/github-readme-activity-graph)
 
 ## Future Exploring Goal
 Diving deeper into Vue.js, SQL, React.js, and Laravel to enhance my development skills, build dynamic applications, and stay ahead in the ever-evolving tech landscape.

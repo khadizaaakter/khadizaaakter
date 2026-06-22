@@ -1,9 +1,7 @@
-<!-- Header Banner -->
 <p align="center">
   <img src="https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif" width="100%" />
 </p>
 
-<!-- Neon Gradient Header Redesign -->
 <p align="left">
   <svg width="600" height="55" viewBox="0 0 600 55" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -32,8 +30,7 @@
 
 ## 👩‍💻 About Me
 
-<!-- Laptop girl GIF placed here beside About Me -->
-<img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🚀 Currently working with **Vue.js & Laravel**
 - 💡 Building real-world scalable applications
@@ -71,19 +68,24 @@
 
 ---
 
-## 🎯 Current Focus
+## 📋 Focus & Goals
 
-- 📌 Advanced Vue.js patterns  
-- 📌 Laravel API architecture  
-- 📌 Clean code & system design  
-
----
-
-## 🌟 Future Goals
-
-- 🚀 Build production-level SaaS projects  
-- 🌍 Work in international tech environment  
-- 📈 Grow as a full-stack engineer  
+<table width="100%" cellpadding="10" cellspacing="10" border="0">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #24292e; border-radius: 8px; background-color: #0d1117;">
+      <h3>🎯 Current Focus</h3>
+      <p>🔹 <b>Advanced Patterns:</b> Deep dive into Vue.js architecture</p>
+      <p>🔹 <b>API Design:</b> Scalable and clean Laravel API architecture</p>
+      <p>🔹 <b>Clean Code:</b> Continuous improvement in robust system designs</p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #24292e; border-radius: 8px; background-color: #0d1117;">
+      <h3>✨ Future Goals</h3>
+      <p>🚀 <b>SaaS Ecosystems:</b> Build production-level web applications</p>
+      <p>🌍 <b>Global Reach:</b> Work efficiently in international environments</p>
+      <p>📈 <b>Engineering Depth:</b> Scale expertise as a full-stack architect</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

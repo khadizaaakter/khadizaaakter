@@ -42,7 +42,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&theme=tokyonight&hide_border=true" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadizaaakter&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  
 </p>
 
 <p align="center">

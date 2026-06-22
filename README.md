@@ -11,7 +11,7 @@
         <stop offset="70%" style="stop-color:#ff007c;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="120" fill="url(#tokyo-gradient)">
+    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="url(#tokyo-gradient)">
       Hi 👋, I'm Khadiza Akter
     </text>
   </svg>
@@ -70,22 +70,27 @@
 
 ## 📋 Focus & Goals
 
-<table width="100%" cellpadding="10" cellspacing="10" border="0">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #24292e; border-radius: 8px; background-color: #0d1117;">
+<div>
+  <div align="left" style="display: inline-block; width: 48%; min-width: 300px; vertical-align: top; margin-bottom: 15px;">
+    <blockquote>
       <h3>🎯 Current Focus</h3>
       <p>🔹 <b>Advanced Patterns:</b> Deep dive into Vue.js architecture</p>
       <p>🔹 <b>API Design:</b> Scalable and clean Laravel API architecture</p>
       <p>🔹 <b>Clean Code:</b> Continuous improvement in robust system designs</p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #24292e; border-radius: 8px; background-color: #0d1117;">
+    </blockquote>
+  </div>
+
+  <div align="right" style="display: inline-block; width: 48%; min-width: 300px; vertical-align: top; margin-bottom: 15px;">
+    <blockquote align="left">
       <h3>✨ Future Goals</h3>
       <p>🚀 <b>SaaS Ecosystems:</b> Build production-level web applications</p>
       <p>🌍 <b>Global Reach:</b> Work efficiently in international environments</p>
       <p>📈 <b>Engineering Depth:</b> Scale expertise as a full-stack architect</p>
-    </td>
-  </tr>
-</table>
+    </blockquote>
+  </div>
+</div>
+
+<br clear="both"/>
 
 ---
 

@@ -11,7 +11,7 @@
         <stop offset="70%" style="stop-color:#ff007c;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="84" fill="url(#tokyo-gradient)">
+    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="120" fill="url(#tokyo-gradient)">
       Hi 👋, I'm Khadiza Akter
     </text>
   </svg>

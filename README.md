@@ -70,25 +70,33 @@
 
 ## 📋 Focus & Goals
 
-<div>
-  <div align="left" style="display: inline-block; width: 48%; min-width: 300px; vertical-align: top; margin-bottom: 15px;">
-    <blockquote>
-      <h3>🎯 Current Focus</h3>
-      <p>🔹 <b>Advanced Patterns:</b> Deep dive into Vue.js architecture</p>
-      <p>🔹 <b>API Design:</b> Scalable and clean Laravel API architecture</p>
-      <p>🔹 <b>Clean Code:</b> Continuous improvement in robust system designs</p>
-    </blockquote>
-  </div>
+---
 
-  <div align="right" style="display: inline-block; width: 48%; min-width: 300px; vertical-align: top; margin-bottom: 15px;">
-    <blockquote align="left">
-      <h3>✨ Future Goals</h3>
-      <p>🚀 <b>SaaS Ecosystems:</b> Build production-level web applications</p>
-      <p>🌍 <b>Global Reach:</b> Work efficiently in international environments</p>
-      <p>📈 <b>Engineering Depth:</b> Scale expertise as a full-stack architect</p>
-    </blockquote>
-  </div>
-</div>
+## 📋 Focus & Goals
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="48%">
+      <blockquote>
+        <h3>🎯 Current Focus</h3>
+        <p>🔹 <b>Advanced Patterns:</b> Deep dive into Vue.js architecture</p>
+        <p>🔹 <b>API Design:</b> Scalable and clean Laravel API architecture</p>
+        <p>🔹 <b>Clean Code:</b> Continuous improvement in robust system designs</p>
+      </blockquote>
+    </td>
+    <td width="4%"></td>
+    <td valign="top" width="48%">
+      <blockquote>
+        <h3>✨ Future Goals</h3>
+        <p>🚀 <b>SaaS Ecosystems:</b> Build production-level web applications</p>
+        <p>🌍 <b>Global Reach:</b> Work efficiently in international environments</p>
+        <p>📈 <b>Engineering Depth:</b> Scale expertise as a full-stack architect</p>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+---
 
 <br clear="both"/>
 

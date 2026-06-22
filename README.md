@@ -3,9 +3,6 @@
   <img src="https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif" width="100%" />
 </p>
 
-<img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-<!-- Animated Header Redesign -->
 <!-- Neon Gradient Header Redesign -->
 <p align="left">
   <svg width="600" height="55" viewBox="0 0 600 55" xmlns="http://www.w3.org/2000/svg">
@@ -22,6 +19,8 @@
   </svg>
 </p>
 
+<h3>💻 Software Developer | Laravel & Vue.js Enthusiast</h3>
+
 <p>
   <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/">
     <img src="https://img.shields.io/badge/LinkedIn-Khadiza-blue?style=for-the-badge&logo=linkedin">
@@ -33,12 +32,16 @@
 
 ## 👩‍💻 About Me
 
+<!-- Laptop girl GIF placed here beside About Me -->
+<img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 - 🚀 Currently working with **Vue.js & Laravel**
 - 💡 Building real-world scalable applications
 - 📊 Strong in **SQL & backend logic**
 - 🎯 Goal: Become a **world-class Software Engineer**
 - 🌱 Learning something new every day
 
+<br clear="right"/>
 <br clear="both"/>
 
 ---

@@ -6,10 +6,20 @@
 <img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <!-- Animated Header Redesign -->
+<!-- Neon Gradient Header Redesign -->
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&vCenter=true&width=500&lines=Hi+👋,+I'm+Khadiza+Akter;Software+Developer+💻;Laravel+%26+Vue.js+Enthusiast" alt="Typing SVG" />
-  </a>
+  <svg width="600" height="55" viewBox="0 0 600 55" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="tokyo-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:1" />
+        <stop offset="30%" style="stop-color:#bb9af7;stop-opacity:1" />
+        <stop offset="70%" style="stop-color:#ff007c;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="url(#tokyo-gradient)">
+      Hi 👋, I'm Khadiza Akter
+    </text>
+  </svg>
 </p>
 
 <p>

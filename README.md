@@ -1,44 +1,75 @@
-![MasterHead](https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif?lossy=0&strip=1&webp=1)
-<h1 align="center"> I'M KHADIZA AKTER. </h1>
-<h3 align="center">A passionate Developer from Bangladesh</h3>
-<img align ="right" alt="Coding"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif" width="100%" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20views&color=0e75b6&style=flat" alt="khadizaaakter" /> </p>
+<img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🚀 Currently mastering Vue.js to build dynamic and interactive web applications.
-- 💻 Diving into PHP (Laravel) & JavaScript to craft scalable and efficient solutions.
-- 🎯 Embracing challenges, coding daily, seeking feedback, and loving the journey—because growth happens outside the comfort zone!
+<h1>Hi 👋, I'm Khadiza Akter</h1>
+<h3>💻 Software Developer | Laravel & Vue.js Enthusiast</h3>
 
-<h3 align="left"> Connection</h3>
- <div align="left">
-   <a href= "https://www.linkedin.com/in/khadiza-akter-83b389240/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  
+<p>
+  <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Khadiza-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
-<h3 align="left"> Languages and Tools</h3>
-<!-- <p align="left"> -->
-<h3 align="left">Languages and Tools</h3>
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadizaaakter&show_icons=true&locale=en&layout=compact" alt="khadizaaakter" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadizaaakter&show_icons=true&locale=en" alt="khadizaaakter" /></p>
+- 🚀 Currently working with **Vue.js & Laravel**
+- 💡 Building real-world scalable applications
+- 📊 Strong in **SQL & backend logic**
+- 🎯 Goal: Become a **world-class Software Engineer**
+- 🌱 Learning something new every day
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&" alt="khadizaaakter" /></p>
+<br clear="both"/>
 
-[![Khadiza Akter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react&bg_color=1a1a2e&color=f5a623&line=ff6347&point=fcf6bd&area=true&hide_border=true)](https://github.com/khadizaaakter/github-readme-activity-graph)
+---
 
-## Future Exploring Goal
-Diving deeper into Vue.js, SQL, React.js, and Laravel to enhance my development skills, build dynamic applications, and stay ahead in the ever-evolving tech landscape.
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,laravel,php,js,mysql,html,css,tailwind,bootstrap,sass,java,c,react" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadizaaakter&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 📌 Advanced Vue.js patterns  
+- 📌 Laravel API architecture  
+- 📌 Clean code & system design  
+
+---
+
+## 🌟 Future Goals
+
+- 🚀 Build production-level SaaS projects  
+- 🌍 Work in international tech environment  
+- 📈 Grow as a full-stack engineer  
+
+---
+
+## 💬 Quote I Believe In
+
+> "Consistency beats talent when talent doesn’t work hard."

@@ -5,8 +5,12 @@
 
 <img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<h1>Hi 👋, I'm Khadiza Akter</h1>
-<h3>💻 Software Developer | Laravel & Vue.js Enthusiast</h3>
+<!-- Animated Header Redesign -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&vCenter=true&width=500&lines=Hi+👋,+I'm+Khadiza+Akter;Software+Developer+💻;Laravel+%26+Vue.js+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/">

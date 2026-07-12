@@ -1,154 +1,74 @@
-<div align="center">
+<p align="center">
+  <img src="https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif" width="100%" />
+</p>
 
-# 👋 Hi, I'm Khadiza Akter
+<p align="left">
+  <svg width="600" height="55" viewBox="0 0 600 55" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="tokyo-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:1" />
+        <stop offset="30%" style="stop-color:#bb9af7;stop-opacity:1" />
+        <stop offset="70%" style="stop-color:#ff007c;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="url(#tokyo-gradient)">
+      Hi 👋, I'm Khadiza Akter
+    </text>
+  </svg>
+</p>
 
-### Software Engineer • Laravel • Vue.js • PHP
-
-Building scalable web applications with clean architecture and modern UI.
+<h3>💻 Software Developer | Laravel & Vue.js Enthusiast</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Khadiza-blue?style=for-the-badge&logo=linkedin">
   </a>
-
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=khadizaaakter&style=for-the-badge&color=7aa2f7"/>
-
+  <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
-</div>
+---
+
+## 👩‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+- 🚀 Currently working with **Vue.js & Laravel**
+- 💡 Building real-world scalable applications
+- 📊 Strong in **SQL & backend logic**
+- 🎯 Goal: Become a **world-class Software Engineer**
+- 🌱 Learning something new every day
+
+<br clear="right"/>
+<br clear="both"/>
 
 ---
 
-# 💫 About Me
-
-```javascript
-const khadiza = {
-    role: "Software Engineer",
-    company: "ACI Limited PLC",
-    location: "Dhaka, Bangladesh",
-
-    currentlyLearning: [
-        "System Design",
-        "Microservices",
-        "Cloud Computing"
-    ],
-
-    backend: [
-        "Laravel",
-        "PHP",
-        "REST API"
-    ],
-
-    frontend: [
-        "Vue.js",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Tailwind CSS"
-    ],
-
-    database: [
-        "MySQL",
-        "SQL Server"
-    ],
-
-    goal: "Become a World-Class Software Engineer"
-};
-```
-
----
-
-# 🚀 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,mysql,html,css,tailwind,bootstrap,sass,git,github,vscode,java,c&perline=5"/>
-
+  <img src="https://skillicons.dev/icons?i=vue,laravel,php,js,mysql,html,css,tailwind,bootstrap,sass,java,c,react" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khadizaaakter&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadizaaakter&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadizaaakter&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 Activity Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khadizaaakter&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<br clear="both"/>
 ---
 
-# 📈 Contribution Graph
+## 💬 Quote I Believe In
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khadizaaakter&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📌 Featured Skills
-
-| Backend | Frontend | Database | Tools |
-|----------|-----------|-----------|-------|
-| Laravel | Vue.js | SQL Server | Git |
-| PHP | JavaScript | MySQL | GitHub |
-| REST API | Tailwind CSS | Database Design | VS Code |
-
----
-
-# 🎯 2026 Goals
-
-- Master System Design
-- Learn Docker & Kubernetes
-- Explore AWS Cloud
-- Build SaaS Products
-- Contribute to Open Source
-- Pursue Master's Abroad 🇩🇪
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"Consistency beats talent when talent doesn't work hard."**
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! ❤️
-
-⭐ If you like my work, consider starring my repositories.
-
-</div>
+> "Consistency beats talent when talent doesn’t work hard."

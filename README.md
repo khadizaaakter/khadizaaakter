@@ -63,11 +63,7 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.onrender.com/graph?username=khadizaaakter&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <br clear="both"/>

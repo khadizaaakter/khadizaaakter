@@ -54,13 +54,13 @@
 
 ---
 
-## 🔥 Activity Graph
+<!--## 🔥 Activity Graph -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=tokyo-night&hide_border=true"/>
-</p>
+</p> -->
 
-<br clear="both"/>
+<!-- <br clear="both"/> -->
 ---
 
 ## 💬 Quote I Believe In

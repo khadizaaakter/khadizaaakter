@@ -1,57 +1,56 @@
-<div align="center">
+<p align="center">
+  <img src="https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Welcome%20to%20Khadiza's%20GitHub%20%3C%2F%3E&fontSize=32&fontColor=ffffff&fontAlignY=50&desc=Software%20Developer%20%C2%B7%20Laravel%20%26%20Vue.js&descAlignY=70&descSize=16" width="100%" alt="header" />
+<p align="left">
+  <svg width="600" height="55" viewBox="0 0 600 55" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="tokyo-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:1" />
+        <stop offset="30%" style="stop-color:#bb9af7;stop-opacity:1" />
+        <stop offset="70%" style="stop-color:#ff007c;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="0" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="url(#tokyo-gradient)">
+      Hi 👋, I'm Khadiza Akter
+    </text>
+  </svg>
+</p>
+
+<h3>💻 Software Developer | Laravel & Vue.js Enthusiast</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:acimiswebapps@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/khadizaaakter"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Views&color=000000&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/khadiza-akter-83b389240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Khadiza-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=khadizaaakter&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
-</div>
+---
 
-&nbsp;
+## 👩‍💻 About Me
 
-## 📌 About me
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+- 🚀 Currently working with **Vue.js & Laravel**
+- 💡 Building real-world scalable applications
+- 📊 Strong in **SQL & backend logic**
+- 🎯 Goal: Become a **world-class Software Engineer**
+- 🌱 Learning something new every day
 
-Hi there! I'm **Khadiza Akter**, a Software Developer who enjoys turning ideas into
-working products with **Laravel** and **Vue.js**.
+<br clear="right"/>
+<br clear="both"/>
 
-- 🏗️ Building scalable web apps with clean APIs and dependable data flows
-- 📊 Comfortable with SQL and backend architecture end-to-end
-- 🎯 Working toward becoming a well-rounded, world-class software engineer
-- 🌱 A little better every day
+---
 
-<br clear="right" />
-
-&nbsp;
-
-## 🛠️ Technologies
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,react,html,css,tailwind,bootstrap,sass&theme=dark" alt="Technologies" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,java,c,git,github,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vue,laravel,php,js,mysql,html,css,tailwind,bootstrap,sass,java,c,react" />
 </p>
 
-&nbsp;
+---
 
-## 📊 Statistics
+## 💬 Quote I Believe In
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khadizaaakter&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khadizaaakter&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khadizaaakter&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
-</p>
-
-<div align="center">
-  <sub>Thanks for stopping by — let's build something meaningful.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" alt="footer" />
+> "Consistency beats talent when talent doesn’t work hard."
